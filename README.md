@@ -11,7 +11,7 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Samyog_Koirala7" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Samyogkoirala" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samyog_koirala.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="samyogkoirala" height="30" width="40" /></a></p>
+<a href="https://www.instagram.com/samyog_koirala7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="samyogkoirala" height="30" width="40" /></a></p>
 
 
 
